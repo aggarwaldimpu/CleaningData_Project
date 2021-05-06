@@ -1,7 +1,7 @@
 # CleaningData_Project
-How does this repo work?
-Download the entire repo
-Open the R Markdown file run_analysis.Rmd
+## How does this repo work?
+##Download the entire repo
+## Open the R Markdown file run_analysis.Rmd
 Run all chunks of R code in run_analysis.Rmd
 Cleaning Data Analysis Report is run_analysis.pdf
 Step-by-Step Analysis (run_analysis.Rmd)
